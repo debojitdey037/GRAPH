@@ -1,0 +1,2 @@
+n = Number of nodes/vertices
+m = Number of edges
